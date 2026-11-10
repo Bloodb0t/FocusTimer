@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "messages": [
+    { "id": "m001", "text": "Start with one focused minute. The next one gets easier." },
+    { "id": "m002", "text": "Your future self is already grateful for this session." },
+    { "id": "m003", "text": "Small, steady effort beats a burst of panic every time." },
+    { "id": "m004", "text": "Distractions can wait. Your goals cannot." },
+    { "id": "m005", "text": "Do the hard part first, then the rest feels lighter." },
+    { "id": "m006", "text": "You do not need motivation, just the next ten minutes." },
+    { "id": "m007", "text": "Every completed session is proof that you keep your word to yourself." },
+    { "id": "m008", "text": "Stay with the problem a little longer than feels comfortable." },
+    { "id": "m009", "text": "Progress is quiet. Keep going anyway." },
+    { "id": "m010", "text": "One page, one problem, one step at a time." },
+    { "id": "m011", "text": "Confusion is the feeling of learning in progress." },
+    { "id": "m012", "text": "Put the phone down. This hour belongs to you." },
+    { "id": "m013", "text": "Consistency turns ordinary days into real results." },
+    { "id": "m014", "text": "Finish this interval, then you can rest without guilt." },
+    { "id": "m015", "text": "Mistakes mean you are trying something that stretches you." },
+    { "id": "m016", "text": "Focus is a skill, and you are training it right now." },
+    { "id": "m017", "text": "The best time to focus was earlier. The second best is now." },
+    { "id": "m018", "text": "Breathe, reset, and return to the task in front of you." },
+    { "id": "m019", "text": "Do not break the chain. Make this session count." },
+    { "id": "m020", "text": "Hard topics become familiar after enough patient repetition." },
+    { "id": "m021", "text": "You are building discipline, not just finishing homework." },
+    { "id": "m022", "text": "Be proud of showing up, even when it is difficult." },
+    { "id": "m023", "text": "Quiet effort today creates confidence on exam day." },
+    { "id": "m024", "text": "Nothing on your screen is more important than this task right now." },
+    { "id": "m025", "text": "Keep going. The timer is on your side." }
+  ]
+}
